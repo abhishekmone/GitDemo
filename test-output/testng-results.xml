@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-18T16:22:13 IST" name="Default suite" finished-at="2023-07-18T16:22:13 IST" duration-ms="119">
+    <groups>
+    </groups>
+    <test started-at="2023-07-18T16:22:13 IST" name="Default test" finished-at="2023-07-18T16:22:13 IST" duration-ms="119">
+      <class name="Test.Day2">
+        <test-method signature="plan(java.lang.String,java.lang.String)[pri:0, instance:Test.Day2@7714e963]" started-at="2023-07-18T16:22:13 IST" name="plan" data-provider="getdata" finished-at="2023-07-18T16:22:13 IST" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firstusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Firstpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- plan -->
+        <test-method signature="plan(java.lang.String,java.lang.String)[pri:0, instance:Test.Day2@7714e963]" started-at="2023-07-18T16:22:13 IST" name="plan" data-provider="getdata" finished-at="2023-07-18T16:22:13 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[secondusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secondpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- plan -->
+        <test-method signature="plan(java.lang.String,java.lang.String)[pri:0, instance:Test.Day2@7714e963]" started-at="2023-07-18T16:22:13 IST" name="plan" data-provider="getdata" finished-at="2023-07-18T16:22:13 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[thirdusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[thirdpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- plan -->
+      </class> <!-- Test.Day2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
